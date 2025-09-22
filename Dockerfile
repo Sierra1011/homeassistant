@@ -1,4 +1,4 @@
-FROM ghcr.io/home-assistant/home-assistant:2025.9.1
+FROM ghcr.io/home-assistant/home-assistant:2025.9.4
 
 RUN pip install uk_bin_collection
 
